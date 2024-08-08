@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\bin\Debug\net6.0\TicketSystemTask.Repository.deps.json
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\bin\Debug\net6.0\TicketSystemTask.Repository.dll
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\bin\Debug\net6.0\TicketSystemTask.Repository.pdb
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\bin\Debug\net6.0\TicketSystemTask.Core.dll
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\bin\Debug\net6.0\TicketSystemTask.Core.pdb
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.AssemblyInfo.cs
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSy.E163F83C.Up2Date
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.dll
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\refint\TicketSystemTask.Repository.dll
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\TicketSystemTask.Repository.pdb
+C:\Users\user\source\repos\TicketSystemTask\TicketSystemTask.Repository\obj\Debug\net6.0\ref\TicketSystemTask.Repository.dll

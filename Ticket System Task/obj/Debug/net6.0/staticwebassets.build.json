@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "D2NZUIwSlFnItfR032TCgXj8FyUp1k6hR3Xb76Cxbn0=",
+  "Source": "TicketSystemTask.Apis",
+  "BasePath": "_content/TicketSystemTask.Apis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TicketSystemTask.Apis\\wwwroot",
+      "Source": "TicketSystemTask.Apis",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\TicketSystemTask\\Ticket System Task\\wwwroot\\",
+      "BasePath": "_content/TicketSystemTask.Apis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\TicketSystemTask\\Ticket System Task\\wwwroot\\Images\\10500891.jpg",
+      "SourceId": "TicketSystemTask.Apis",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\TicketSystemTask\\Ticket System Task\\wwwroot\\",
+      "BasePath": "_content/TicketSystemTask.Apis",
+      "RelativePath": "Images/10500891.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\10500891.jpg"
+    }
+  ]
+}
